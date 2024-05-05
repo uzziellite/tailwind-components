@@ -50,7 +50,7 @@
 
 * Accordion using radio inputs, Accordion with arrow icon, Accordion with plus/minus icon, Accordion Using Accordion and Join together: [daisyui.com/components/accordion/](https://daisyui.com/components/accordion/)
 * Collapse with focus, Collapse with checkbox, Collapse using <details> and <summary> tag, Collapse With border and background color, Collapse With arrow icon, Collapse With arrow plus/minus icon, Collapse Force open, Collapse Force close, Collapse Custom colors for collapse that works with focus, Collapse Custom colors for collapse that works with checkbox: [daisyui.com/components/collapse/](https://daisyui.com/components/collapse/)
-* Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour: [flowbite.com/docs/components/accordion/](https://flowbite.com/docs/components/accordion/)
+* Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour, Accordion Default accordion, Accordion Always open, Accordion Color options, Accordion Flush accordion, Accordion Arrow style, Accordion Nesting accordions, Accordion JavaScript behaviour: [flowbite.com/docs/components/accordion/](https://flowbite.com/docs/components/accordion/)
 * Accordion Basic usage, Accordion Example, Accordion Always open, Accordion Nested, Accordion No arrow, Accordion With arrow, Accordion With title and arrow stretched, Accordion Bordered, Accordion Active content bordered: [preline.co/docs/accordion.html](https://preline.co/docs/accordion.html)
 * Collapse Basic usage, Collapse Example, Collapse Show/Hide: [preline.co/docs/collapse.html](https://preline.co/docs/collapse.html)
 * Accordions Style 1: [tailgrids.com/components/accordions](https://tailgrids.com/components/accordions)
@@ -2384,13 +2384,7 @@
 * Tailwind CSS Modal Confirmation with alpine js. with style headless ui: [tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui](https://tailwindcomponents.com/component/modal-confirmation-with-alpine-js-with-style-headless-ui)
 * Modal Alert Responsive Tailwind CSS: [tailwindcomponents.com/component/modal-alert-responsive-tailwind-css](https://tailwindcomponents.com/component/modal-alert-responsive-tailwind-css)
 * Modal with a subscription form: [tailwindcomponents.com/component/modal-with-a-subscription-form](https://tailwindcomponents.com/component/modal-with-a-subscription-form)
-* Modal Basic Example, Modal components, Modal Positions
-
-  TWE Pro component, Modal Frame
-
-  TWE Pro component, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal
-
-  TWE Pro component, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
+* Modal Basic Example, Modal components, Modal Positions, Modal Frame, Modal Static backdrop, Modal Scrolling long content, Modal dialog scrollable, Modal Vertically centered, Modal Tooltips and popovers, Modal Varying modal content, Modal Toggle between modals, Modal Button with icon, Modal Sizes, Modal Fullscreen modal, Modal Non-invasive Modal, Modal Import, Modal Simple notification: [tw-elements.com/docs/standard/components/modal/](https://tw-elements.com/docs/standard/components/modal/)
 * Modal Default modal, Modal Static modal, Modal Pop-up modal, Modal Form element, Modal Modal with CRUD, Modal Modal with timeline, Modal Modal with progress bar, Modal Crypto wallet, Modal Sizes, Modal Placement, Modal More examples, Modal JavaScript behaviour: [flowbite.com/docs/components/modal/](https://flowbite.com/docs/components/modal/)
 * Modals Topped Modal, Modals Centered Modal, Modals Centered with form, Modals Large size modal: [tailwindadmin.netlify.app/modals](https://tailwindadmin.netlify.app/modals)
 * Tailwind CSS Modal: [tailwindcomponents.com/component/modal-16](https://tailwindcomponents.com/component/modal-16)
