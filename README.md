@@ -4919,3 +4919,4 @@
 * hover: [tailwindcomponents.com/component/hover](https://tailwindcomponents.com/component/hover)
 * Price Section: [tailwindcomponents.com/component/price-section](https://tailwindcomponents.com/component/price-section)
 * Dashwind - Admin Dashboard: [tailwindcomponents.com/component/dashwind-admin-dashboard](https://tailwindcomponents.com/component/dashwind-admin-dashboard)
+* Tailstore: [github.com/spacemadev/Tailstore](https://github.com/spacemadev/Tailstore)

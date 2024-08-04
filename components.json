@@ -28468,5 +28468,11 @@
     "link": "https://flowbite.com/docs/components/datepicker/",
     "category": "Date/Time",
     "parent": null
+  },
+  {
+    "name": "Tailstore",
+    "link": "https://github.com/spacemadev/Tailstore",
+    "category": "Other",
+    "parent": null
   }
 ]
