@@ -2863,7 +2863,7 @@
 * testimonials pop: [tailwind.besoeasy.com/testimonials/pop.html](https://tailwind.besoeasy.com/testimonials/pop.html)
 * testimonials she: [tailwind.besoeasy.com/testimonials/she.html](https://tailwind.besoeasy.com/testimonials/she.html)
 * Card Testimonial card: [flowbite.com/docs/components/card/](https://flowbite.com/docs/components/card/)
-* Testimonial #Content on the left, slider on the right with stars, title, content and author, Testimonial #Title and grid of reviews with stars, avatar, author and content, Testimonial #Title and slider with stars, title, content and author, Testimonial #Title and masonry grid of reviews with stars, avatar, author and content: [hyperui.dev/components/marketing/testimonials](https://www.hyperui.dev/components/marketing/testimonials)
+* Testimonial #Content on the left, slider on the right with stars, title, content and author, Testimonial #Title and grid of reviews with stars, avatar, author and content, Testimonial #Title and slider with stars, title, content and author, Testimonial #Title and masonry grid of reviews with stars, avatar, author and content, Testimonial #Title and slider with fading reviews, buttons, stars, avatar, author, and content: [hyperui.dev/components/marketing/testimonials](https://www.hyperui.dev/components/marketing/testimonials)
 * Page Testimonial: [mertjf.github.io/tailblocks](https://mertjf.github.io/tailblocks)
 * testimonials: [tailwind-css-components.appseed.us/testimonials.html](https://tailwind-css-components.appseed.us/testimonials.html)
 * Testimonial Card: [codepen.io/stackdiary/pen/jOaVLQR](https://codepen.io/stackdiary/pen/jOaVLQR)
